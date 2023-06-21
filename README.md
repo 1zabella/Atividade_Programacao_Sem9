@@ -66,3 +66,20 @@ O Watson Discovery permite a extração de insights de documentos não estrutura
 
 Essas são apenas algumas das ferramentas de PLN fornecidas pela IBM Watson. Cada serviço oferece uma API que permite a integração em aplicativos e sistemas por meio de requisições HTTP, o que gera maior flexibilidade no processo de implementação.
 
+No que diz respeito à utilização das soluções oferecidas pela IBM Watson, encontrei dois casos de uso dessa ferramenta:
+
+- Utilização do Watson da IBM no desenvolvimento de soluções na área jurídica: [texto na íntegra](https://easyjur.com/blog/utilizando-o-watson-da-ibm-no-desenvolvimento-de-solucoes-na-area-juridica/)
+  
+- Incorporação da IA do IBM em portfólios de soluções da SAP: SAP usará recursos do IBM para capacitar seu assistente digital no SAP Start, que fornece um ponto de entrada unificado para soluções em núvem da SAP. [texto na íntegra](https://inforchannel.com.br/2023/05/02/sap-incorpora-ia-do-ibm-watson-em-seu-portfolio-de-solucoes/)
+
+**Referências:**
+
+- [Armazenamento IBM storage](https://www.ibm.com/br-pt/storage?utm_content=SRCWW&p1=Search&p4=43700068107100098&p5=p&gclid=Cj0KCQjwnMWkBhDLARIsAHBOftrj-loUcEav8QlwOlyk0KqZv2g6fHL7MDk1kALihU-KfO3SNKaiN84aApHUEALw_wcB&gclsrc=aw.ds)
+
+- [Soluções de IA](https://www.ibm.com/br-pt/artificial-intelligence?lnk=flathl)
+  
+- [Soluções de processamento de linguagem natural IBM Watson](https://www.ibm.com/watson/natural-language-processing)
+  
+- [Embracing hybrid cloud](https://www.ibm.com/downloads/cas/ZEVQAVQA)
+
+
