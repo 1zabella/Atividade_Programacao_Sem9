@@ -7,7 +7,7 @@ Dentre essas opções, é possível destacar, principalmente, as que se encontra
 - Armazenamento em núvem híbrida
 - Armazenamento para resiliência de dados
 
-[adicionar imagem 1]
+![imagem1](https://github.com/1zabella/Atividade_Programacao_Sem9/blob/main/imagens/imagem%201.jpg)
 
 **Dispositivos de armazenamento:** inovações de hardware de ponta para armazenamento de dados, com ajuste de escala, all-flash e híbrido. São ideais para cargas de trabalho críticas, operacionais e de arquivamento local e externo.
 - Armazenamento flash IBM
@@ -17,7 +17,7 @@ Dentre essas opções, é possível destacar, principalmente, as que se encontra
 - Sistema HCI do IBM Storage Fusion
 - IBM Storage networking 
 
-[adicionar imagem 2]
+![imagem2](https://github.com/1zabella/Atividade_Programacao_Sem9/blob/main/imagens/imagem%202.jpg)
 
 **Software de armazenamento:** entrega dados e serviços na borda, no núcleo e na cloud, permitindo o gerenciamento de inforações independentemente da localização, a automatização de processos de TI e a proteção de aplicativos e dados contra danos.
 - IBM Storage scale
@@ -26,7 +26,7 @@ Dentre essas opções, é possível destacar, principalmente, as que se encontra
 - IBM storage defender
 - IBM storage insights
 
-[adicionar imagem 3]
+![imagem3](https://github.com/1zabella/Atividade_Programacao_Sem9/blob/main/imagens/imagem%203.jpg)
 
 **Serviços de armazenamento e recursos**
 - Avalie seu risco e proteja seu negócio
@@ -34,8 +34,8 @@ Dentre essas opções, é possível destacar, principalmente, as que se encontra
 - Resiliência de dados para melhor desempnho dos negócios
 - Serviços de ciclo de vida de tecnologia para IBM Storage
 - Conheça mais sobre flashsystem.
-
-[adicionar imagem 5]
+  
+![imagem4](https://github.com/1zabella/Atividade_Programacao_Sem9/blob/main/imagens/imagem%204.jpg)
 
 Para além das ferramentas anteriormente apresentadas, a empresa conta com soluções desenvolvidas com inteligência artificial e para a sua melhor construção. Dentre elas, é possível destacar a IBM Watson, uma inteligência artificial desenvolvida pela IBM que torna tecnologias NLP complexas mais acessíveis a funcionários que não são cientistas de dados. Os produtos são desenvolvidos para usuários não técnicos, com o intuito de ajudar a empresa no processo de simplificação de operações de negócios e aumentar a produtividade dos funcionários.
 
